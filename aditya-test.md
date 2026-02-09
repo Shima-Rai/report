@@ -1,6 +1,6 @@
 # Project Status Report - Plant Health Monitoring Backend
 
-## Overall Status:
+##Status:
 
 The project is a production-oriented Node.js backend with a Python AI inference subsystem, Dockerized deployment, and a structured test suite. Core services, security layers, and AI model handling are in place.
 
@@ -102,11 +102,5 @@ Note: Tests were not executed in this review.
 
 ---
 
-## 6. Risks and Open Questions
 
-- Test status not validated in this review; last recorded run shows failures.
-- Encrypted model files and keys are external dependencies and must be provided for inference.
-- AI worker pool availability affects prediction endpoints.
-
----
 
