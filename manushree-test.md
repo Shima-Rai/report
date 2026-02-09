@@ -1,7 +1,7 @@
 # Project Status Report - SkinGlow (GITOKER)
 
 
-## Overall Status:
+## Status:
 
 The project is a full-stack skincare shopping app with a React frontend, Express API, tests, and containerization for portable deployment. Core structure, scripts, and configs are in place.
 
@@ -101,10 +101,4 @@ Note: Execution results are reported below.
 
 ---
 
-## 6. Risks and Open Questions
 
-- No CI configuration identified (manual test execution assumed).
-- Frontend cart state is client-side only (not persisted).
-- Test pass status not validated in this review.
-
----
