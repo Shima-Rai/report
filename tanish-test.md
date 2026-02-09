@@ -1,7 +1,7 @@
 # Project Status Report - E-Catalog
 
 
-## Overall Status:
+## Status:
 
 The project is a Next.js e-commerce catalog with App Router pages, API routes, tests, and containerization for portable deployment. Core structure, scripts, and configs are in place.
 
@@ -107,10 +107,4 @@ Note: Execution results are reported below based on existing test documentation.
 
 ---
 
-## 6. Risks and Open Questions
 
-- No CI configuration identified (manual test execution assumed).
-- No Docker Compose (single service only) - OK for current scope.
-- Test pass status not validated in this review (documented results only).
-
----
