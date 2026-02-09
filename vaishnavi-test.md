@@ -104,10 +104,7 @@ All project deliverables have been completed successfully:
 
 - Source code cloned
 - Dependencies installed
-- Docker images created
-- Containers deployed and running
 - Tests executed successfully
-- All services operational
 
 Conclusion: The project is ready for use and all components are functioning as expected.
 
