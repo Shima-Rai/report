@@ -97,8 +97,4 @@ Note: Execution results are reported below.
 
 ---
 
-## 6. Risks and Open Questions
 
-- No CI configuration identified (manual test execution assumed).
-
----
